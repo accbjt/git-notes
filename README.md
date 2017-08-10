@@ -1,6 +1,12 @@
 # git-notes
 These are the common git command I use every day
 
+### Video Tutorial
+
+Here a video showing you my approach to using github and git.
+
+- [https://youtu.be/9rbARG6iXlo](https://youtu.be/9rbARG6iXlo)
+
 #### git add --all
 if you start adding new files to your folder. Git will not actually know that it need to track it. 'git add --all' will add all the files you just added so git knows to track it.
 
